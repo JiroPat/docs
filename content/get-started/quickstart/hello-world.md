@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hello World from JiroPat
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
   fpt: '*'
